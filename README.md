@@ -1,5 +1,7 @@
 ## Hi there 👋
+## I'm getting started in opensource
 [![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gauravworkss&show_icons=true&theme=dark)
+## Streaks are not always that easy
 [![GitHub Streak](https://streak-stats.demolab.com?user=gauravworks&theme=dark&card_width=490)](https://git.io/streak-stats)
 <!--
 **gauravworkss/gauravworkss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
