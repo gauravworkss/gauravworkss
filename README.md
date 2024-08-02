@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![GitHub Streak](https://streak-stats.demolab.com?user=gauravworks)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gauravworks&theme=dark&card_width=490)](https://git.io/streak-stats)
 <!--
 **gauravworkss/gauravworkss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
